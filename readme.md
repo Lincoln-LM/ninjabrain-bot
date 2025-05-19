@@ -28,7 +28,17 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+### Rosé Pine
+![image](https://github.com/user-attachments/assets/63abd70e-25b1-42e2-83a6-a5ae7c9b6cd0)
+![image](https://github.com/user-attachments/assets/9d271774-4023-4cf4-a233-82e879331893)
+
+### Rosé Pine Dawn
+![image](https://github.com/user-attachments/assets/1bc30589-f167-405c-a0fb-20ea4ad44318)
+![image](https://github.com/user-attachments/assets/30f4ce84-ad17-41ed-ab06-bd6360c30c33)
+
+### Rosé Pine Moon
+![image](https://github.com/user-attachments/assets/8bf12834-2d76-4864-b096-dc70eb2c0246)
+![image](https://github.com/user-attachments/assets/1a87db1d-c5ef-4dd3-abed-a3b6cbf54e46)
 
 ## Thanks to
 
