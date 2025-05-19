@@ -1,0 +1,19 @@
+{
+    "titleBar": "$($base|$base|$highlightMed)",
+    "headerBackground": "$surface",
+    "resultBackground": "$overlay",
+    "throwsBackground": "$surface",
+    "dividers": "$($base|$base|$highlightHigh)",
+    "headerDividers": "$($base|$base|$highlightHigh)",
+    "text": "$text",
+    "titleText": "$subtle",
+    "throwsText": "$subtle",
+    "divineText": "$subtle",
+    "versionText": "$subtle",
+    "headerText": "$subtle",
+    "subpixelIncrease": "#8fd485",
+    "subpixelDecrease": "#dd7e70",
+    "certainty100": "$foam",
+    "certainty50": "$gold",
+    "certainty0": "$love"
+}

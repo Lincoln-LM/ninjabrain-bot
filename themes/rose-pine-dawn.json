@@ -1,0 +1,19 @@
+{
+    "titleBar": "#dfdad9",
+    "headerBackground": "#fffaf3",
+    "resultBackground": "#f2e9e1",
+    "throwsBackground": "#fffaf3",
+    "dividers": "#cecacd",
+    "headerDividers": "#cecacd",
+    "text": "#575279",
+    "titleText": "#797593",
+    "throwsText": "#797593",
+    "divineText": "#797593",
+    "versionText": "#797593",
+    "headerText": "#797593",
+    "subpixelIncrease": "#8fd485",
+    "subpixelDecrease": "#dd7e70",
+    "certainty100": "#56949f",
+    "certainty50": "#ea9d34",
+    "certainty0": "#b4637a"
+}
